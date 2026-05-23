@@ -1,7 +1,7 @@
 ## Hi Im George ✌🏼
 
-🐍 Entry Python & Java Developer ☕<br/>
-👨🏽‍💻 DevOps Enthusiast <br/>
+🐍 Entry Python Developer ☕<br/>
+👨🏽‍💻 NeoVim Enthusiast <br/>
 🧩 I enjoy solving problems from "The Big Book"<br/>
 
 ## 🌐 Socials:
