@@ -1,6 +1,6 @@
 ## Hi Im George ✌🏼
 
-🐍 Entry Python Developer ☕<br/>
+🐍 Entry Python Developer<br/>
 👨🏽‍💻 NeoVim Enthusiast <br/>
 🧩 I enjoy solving problems from "The Big Book"<br/>
 
