@@ -1,17 +1,24 @@
 ## Hi, I'm George ✌🏼
 
-Backend-focused developer building APIs and backend services with Python, Flask, PostgreSQL, and Docker.
+Backend Developer based in Thessaloniki, Greece.
+I build APIs, backend services, and automation tools using Python, Flask, PostgreSQL, Docker, and Linux.
+Passionate about clean architecture, scalable systems, concurrency, and production-ready software.
 
-Interested in backend architecture, automation, concurrency, and scalable system design.
+## About Me
+- Currently focusing on backend architecture, API design, PostgreSQL, Docker, and software maintainability.
+- Building backend services, automation tools, and database-driven applications with Python.
+- Learning more about concurrency, system design, testing, and scalable application development.
+- Goal: Grow into a software engineer capable of designing, building, deploying, and maintaining production-grade systems.
+- Open to backend engineering opportunities, open-source contributions, and collaborative projects.
 
 ## 🌐 You can find me here too:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-georgios-papadopoulos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-georgios-papadopoulos/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kgpapadopoulos@proton.me)
 
 ## Featured Projects
 
-* Call Manager API — Dockerized backend service using Flask, PostgreSQL, and SQLAlchemy
-* Todo API — Containerized Flask backend with PostgreSQL, SQLAlchemy, and modular service architecture
-* Spotify Playlist Automator — Concurrent Spotify metadata processing with multithreading and API optimization
+- Call Manager API — Dockerized backend service using Flask, PostgreSQL, and SQLAlchemy.
+- Todo API — RESTful backend demonstrating clean project structure, database integration, authentication and containerized deployment.
+- Spotify Playlist Automator — Concurrent Spotify metadata processing with multithreading and API optimization.
   
 ## 💻 Tech Stack
 
